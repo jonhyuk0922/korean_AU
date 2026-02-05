@@ -1,5 +1,5 @@
 accelerate==0.34.2
-aiohttp==3.10.5
+aiohttp==3.13.3
 black==24.8.0
 ipykernel==6.29.5
 pandas==2.2.3
